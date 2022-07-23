@@ -30,6 +30,6 @@ canvas {
     margin-top: 130px;
     box-shadow: 5px 5px 5px white;
 }
-#status{
+#status, #objectfound{
     font-family: 'Staatliches', cursive;
 }
